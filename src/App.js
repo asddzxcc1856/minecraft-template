@@ -20,7 +20,7 @@ function App() {
     AOS.init();
   }, []);
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/minecraft-template'>
       <Header></Header>
       <Routes>
         <Route path="/" element={<Content />}></Route>
