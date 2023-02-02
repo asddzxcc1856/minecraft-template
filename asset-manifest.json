@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/minecraft-template/static/css/main.b23b2ef0.css",
+    "main.css": "/minecraft-template/static/css/main.71427851.css",
     "main.js": "/minecraft-template/static/js/main.74eaeb68.js",
     "static/js/787.d24ff6f0.chunk.js": "/minecraft-template/static/js/787.d24ff6f0.chunk.js",
     "static/media/picture5.jpg": "/minecraft-template/static/media/picture5.0a58d61eef3e4221aaea.jpg",
@@ -14,12 +14,12 @@
     "static/media/line.jpg": "/minecraft-template/static/media/line.84d1616741ff28428c84.jpg",
     "static/media/picture7.jpg": "/minecraft-template/static/media/picture7.bf1cee4a68c67a9b8bdc.jpg",
     "index.html": "/minecraft-template/index.html",
-    "main.b23b2ef0.css.map": "/minecraft-template/static/css/main.b23b2ef0.css.map",
+    "main.71427851.css.map": "/minecraft-template/static/css/main.71427851.css.map",
     "main.74eaeb68.js.map": "/minecraft-template/static/js/main.74eaeb68.js.map",
     "787.d24ff6f0.chunk.js.map": "/minecraft-template/static/js/787.d24ff6f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b23b2ef0.css",
+    "static/css/main.71427851.css",
     "static/js/main.74eaeb68.js"
   ]
 }
