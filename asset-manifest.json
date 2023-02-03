@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fef79a0.css",
-    "main.js": "/static/js/main.6a9f1dbe.js",
-    "static/js/787.d24ff6f0.chunk.js": "/static/js/787.d24ff6f0.chunk.js",
-    "static/media/picture5.jpg": "/static/media/picture5.0a58d61eef3e4221aaea.jpg",
-    "static/media/picture2.jpg": "/static/media/picture2.13232cca0d179400bad4.jpg",
-    "static/media/picture6.jpg": "/static/media/picture6.c83365a0edc11c370bf3.jpg",
-    "static/media/bg.jpg": "/static/media/bg.dbf58be8e5edd2e6f381.jpg",
-    "static/media/picture3.jpg": "/static/media/picture3.a7692e81b82510fcc164.jpg",
-    "static/media/picture1.jpg": "/static/media/picture1.0e530dbeb7220f0d5c6f.jpg",
-    "static/media/instagram.jpg": "/static/media/instagram.a34157bc05d7829392df.jpg",
-    "static/media/minecraft.jpg": "/static/media/minecraft.3429a682657685287585.jpg",
-    "static/media/line.jpg": "/static/media/line.84d1616741ff28428c84.jpg",
-    "static/media/picture7.jpg": "/static/media/picture7.bf1cee4a68c67a9b8bdc.jpg",
-    "index.html": "/index.html",
-    "main.2fef79a0.css.map": "/static/css/main.2fef79a0.css.map",
-    "main.6a9f1dbe.js.map": "/static/js/main.6a9f1dbe.js.map",
-    "787.d24ff6f0.chunk.js.map": "/static/js/787.d24ff6f0.chunk.js.map"
+    "main.css": "/minecraft-template/static/css/main.8739a5bd.css",
+    "main.js": "/minecraft-template/static/js/main.2e8882fb.js",
+    "static/js/787.d24ff6f0.chunk.js": "/minecraft-template/static/js/787.d24ff6f0.chunk.js",
+    "static/media/picture5.jpg": "/minecraft-template/static/media/picture5.0a58d61eef3e4221aaea.jpg",
+    "static/media/picture2.jpg": "/minecraft-template/static/media/picture2.13232cca0d179400bad4.jpg",
+    "static/media/picture6.jpg": "/minecraft-template/static/media/picture6.c83365a0edc11c370bf3.jpg",
+    "static/media/bg.jpg": "/minecraft-template/static/media/bg.dbf58be8e5edd2e6f381.jpg",
+    "static/media/picture3.jpg": "/minecraft-template/static/media/picture3.a7692e81b82510fcc164.jpg",
+    "static/media/picture1.jpg": "/minecraft-template/static/media/picture1.0e530dbeb7220f0d5c6f.jpg",
+    "static/media/instagram.jpg": "/minecraft-template/static/media/instagram.a34157bc05d7829392df.jpg",
+    "static/media/minecraft.jpg": "/minecraft-template/static/media/minecraft.3429a682657685287585.jpg",
+    "static/media/line.jpg": "/minecraft-template/static/media/line.84d1616741ff28428c84.jpg",
+    "static/media/picture7.jpg": "/minecraft-template/static/media/picture7.bf1cee4a68c67a9b8bdc.jpg",
+    "index.html": "/minecraft-template/index.html",
+    "main.8739a5bd.css.map": "/minecraft-template/static/css/main.8739a5bd.css.map",
+    "main.2e8882fb.js.map": "/minecraft-template/static/js/main.2e8882fb.js.map",
+    "787.d24ff6f0.chunk.js.map": "/minecraft-template/static/js/787.d24ff6f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fef79a0.css",
-    "static/js/main.6a9f1dbe.js"
+    "static/css/main.8739a5bd.css",
+    "static/js/main.2e8882fb.js"
   ]
 }
