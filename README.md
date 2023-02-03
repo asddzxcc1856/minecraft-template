@@ -1,1 +1,1 @@
-作品放在 gh-pages
+作品放在 https://asddzxcc1856.github.io/minecraft-template
