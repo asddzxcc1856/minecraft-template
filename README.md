@@ -1,11 +1,13 @@
 # minecraft-template
-作品: https://asddzxcc1856.github.io/minecraft-template/
+project-gh-pages: https://asddzxcc1856.github.io/minecraft-template/
 
 ---
 
 # objective
 
 practice with React and bootstrap5 and AOS,I can use them to let front-end wonderful.So,This is very quickly to finish by BootStrap5 and AOS stylesheet and scripts
+
+---
 
 # how to run this project by myself step by step
 
@@ -29,6 +31,12 @@ serve -s build
 
 ### first step
 
+#### VScode plugins
+```
+JS JSX Snippets
+ESlint
+```
+
 #### CRA minecraft,node_module,src and public folder
 ```yml
 create-react-app minecraft
@@ -48,16 +56,19 @@ npm install gh-pages --save-dev
 
 ### forth step
 
-#### write project and deploy
+#### write project(public folder : HTML、logo、ico)(src folder : CSS、JS、React、BT5、AOS)(package.json)
 
 #### package.json (add some for gh-pages)
 ```yml
-  "homepage": "https://asddzxcc1856.github.io/minecraft-template",
+  "homepage": "https://{username}.github.io/{github-repository-name}/",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
   }
 ```
+
+### fifth step 
+
 #### deploy to gh-pages
 ```
 npm run deploy
