@@ -70,7 +70,7 @@ npm install gh-pages --save-dev
 ### fifth step 
 
 #### deploy to gh-pages
-```
+```console
 npm run deploy
 ```
 
