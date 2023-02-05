@@ -14,12 +14,12 @@ practice with React and bootstrap5 and AOS,I can use them to let front-end wonde
 ### first step (clone to your PC)
 
 #### Git Bash (in your project directory will produce a minecraft-template folder from clone)
-```
+```console
 git clone https://github.com/asddzxcc1856/minecraft-template
 code minecraft-template/
 ```
 #### VS code terminal (Ctrl + Shift + `)
-```
+```console
 npm install -g serve
 npm update -g serve
 serve -s build
@@ -32,20 +32,20 @@ serve -s build
 ### first step
 
 #### VScode plugins
-```
+```yml
 JS JSX Snippets
 ESlint
 ```
 
 #### CRA minecraft,node_module,src and public folder
-```yml
+```console
 create-react-app minecraft
 ```
 
 ### second step
 
 #### install (react-router-dom react-router BT5 BT5-icon AOS gh-pages)
-```
+```console
 npm install bootstrap@v5.2.3 
 npm install react-router-dom
 npm install react-router
@@ -59,7 +59,7 @@ npm install gh-pages --save-dev
 #### write project(public folder : HTML、logo、ico)(src folder : CSS、JS、React、BT5、AOS)(package.json)
 
 #### package.json (add some for gh-pages)
-```yml
+```json
   "homepage": "https://{username}.github.io/{github-repository-name}/",
   "scripts": {
     "predeploy" : "npm run build",
